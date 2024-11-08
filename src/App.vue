@@ -29,7 +29,7 @@ const handleActiveDevice = (device: Device) => {
 //——————————————————————————————————————————————————————————————————————————————————————
 
 // 网址处理
-const url = ref('www.liushen.fun')
+const url = ref('home.291055.xyz')
 const phone = ref('')
 const pad = ref('')
 const computer = ref('')
